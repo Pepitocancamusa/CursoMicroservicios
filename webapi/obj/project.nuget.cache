@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JWQ/zrhMEK8=",
+  "dgSpecHash": "fIUL/pc3Eyc=",
   "success": true,
-  "projectFilePath": "/workspaces/CursoMicroservicios/CursoMicroservicios.csproj",
+  "projectFilePath": "/workspaces/CursoMicroservicios/webapi/CursoMicroservicios.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.openapi/8.0.18/microsoft.aspnetcore.openapi.8.0.18.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

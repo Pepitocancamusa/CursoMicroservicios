@@ -463,11 +463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/CursoMicroservicios/CursoMicroservicios.csproj",
+      "projectUniqueName": "/workspaces/CursoMicroservicios/webapi/CursoMicroservicios.csproj",
       "projectName": "CursoMicroservicios",
-      "projectPath": "/workspaces/CursoMicroservicios/CursoMicroservicios.csproj",
+      "projectPath": "/workspaces/CursoMicroservicios/webapi/CursoMicroservicios.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/CursoMicroservicios/obj/",
+      "outputPath": "/workspaces/CursoMicroservicios/webapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
